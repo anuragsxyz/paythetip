@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_emoji/flutter_emoji.dart';
 
 class Clac extends StatefulWidget {
   const Clac({super.key});
@@ -64,7 +63,7 @@ class _ClacState extends State<Clac> {
               style: TextStyle(fontSize: 20),
             ),
             const Text(
-              "You got the bill, now pay the tip :) ",
+              "You got the bill, now pay the tip :P",
             ),
             const SizedBox(
               height: 20,
